@@ -6,14 +6,17 @@
         {
             "path": "sfdx-source/apex-mocks",
             "package": "fflib-apex-mocks",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
+            "versionName": "0.2.0",
+            "versionNumber": "0.2.0.NEXT",
             "default": true
         }
     ],
     "packageAliases": {
         "fflib-apex-mocks": "0Ho1v0000008ON0CAM",
         "fflib-apex-mocks@0.1.0-1": "04t1v0000025j69AAA",
-        "fflib-apex-mocks@0.1.0-2": "04t1v0000025j6EAAQ"
+        "fflib-apex-mocks@0.1.0-2": "04t1v0000025j6EAAQ",
+        "fflib-apex-mocks@0.1.0-3": "04t1v0000025j6sAAA",
+        "fflib-apex-mocks@0.1.0-4": "04t1v0000025j6xAAA",
+        "fflib-apex-mocks@0.2.0-1": "04t1v0000025j77AAA"
     }
 }
